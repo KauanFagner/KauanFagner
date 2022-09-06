@@ -1,8 +1,8 @@
 # sobre mim
 - 👋 Olá meu nome é KauanFagner
-- 👀 estou interessado em aprender a programação 
-- 🌱 eu estou aprendendo as linguagens da programação 
-
+- 👀 Estou interessado em aprender a programação 
+- 🌱 Eu estou aprendendo as linguagens da programação 
+- :+1: Meu email de contato k.sousa@escola.pr.gov.br
 
 <!---
 KauanFagner/KauanFagner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
